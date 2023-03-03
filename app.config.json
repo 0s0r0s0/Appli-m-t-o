@@ -1,0 +1,14 @@
+{
+  "api": {
+    "mapboxgl": {
+      "accessToken": "pk.eyJ1Ijoiby1ibGFuZ2Vyby1saWRlbSIsImEiOiJjanNmc3J1MGowNzFtNGFuOWZ0c3hvdXJ4In0.lAV69BcTdkyoJCNzKFNTCQ"
+    },
+    "darksky": {
+      "secretKey": "aa58bc851354148c44ab4bcc724e7773",
+      "params": {
+        "lang": "fr",
+        "units": "si"
+      }
+    }
+  }
+}
